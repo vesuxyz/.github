@@ -1,3 +1,3 @@
 # Welcome to the Vesu Org
 
-Vesu will land on Starknet soon so stay tuned!
+Vesu is a fully open and permissionless lending protocol on Starknet. Earn, borrow and build the future of finance with Vesu.
